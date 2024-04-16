@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "flappy.h": "c",
+        "stdint.h": "c",
+        "_stdint.h": "c",
+        "_intsup.h": "c",
+        "stdio.h": "c",
+        "pic32mx.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
